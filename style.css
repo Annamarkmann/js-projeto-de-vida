@@ -3,7 +3,7 @@
 :root {
     --cor-de-fundo: #ffbfcb;
     --verde: #d78ca0;
-    --branco: rgb(250, 241, 241) ;
+    --branco: #ffeff2 (250, 241, 241) ;
     --botao-ativo:#ffcfd8;
     --botao-inativo:#ffdfe5;
     --texto-fundo:  #ffbfcb (250, 241, 241);
