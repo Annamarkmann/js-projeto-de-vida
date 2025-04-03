@@ -10,8 +10,8 @@
 }
 
 body {
-    background-color:#ffbfcb (--cor-de-fundo);
-    color: #ffbfcb(--branco);
+    background-color: var(#ffbfcb);
+    color: var(rgb);
     font-family: 'Chakra Petch', sans-serif;
 }
 
